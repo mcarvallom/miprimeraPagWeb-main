@@ -1,0 +1,15 @@
+.parrafo1{
+    background-color: rgb(150, 241, 229);
+    border-radius: 30px;
+    padding: 5%;
+}
+.parrafo2{
+    background-color: rgb(150, 241, 229);
+    border-radius: 30px;
+    padding: 5%;}
+body{
+    background-image: url("minions.gif");
+    background-size: cover;/*
+    background-size: cover;
+    */
+}
