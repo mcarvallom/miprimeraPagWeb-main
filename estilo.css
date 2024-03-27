@@ -60,3 +60,14 @@ padding-right: 2%;
     background-size: cover;
     */
 }
+.nav-link:hover{
+background-color: #ffb978;
+color: black;
+}
+.nav-pills .nav-link.active{
+    background-color: #fd7b03;
+    
+}
+.nav-link{
+    color: white;
+}
